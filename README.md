@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Auspicious-EX/Pixet/blob/main/sreenshort/Git%20Repos%20banner.gif?raw=true)](https://)
 
 # Pixet: Handwritten Text Recognition Website
-"Textify: Visualizing Text Universes" – an innovative project revolutionizing the preservation and accessibility of handwritten & historical documents. Through cutting-edge Optical Character Recognition (OCR 🖨️) and Machine Learning techniques, Textify digitally transforms analog manuscripts. Our user-friendly platform ensures real-time processing, enabling researchers and historians to effortlessly access and analyze these invaluable resources.
+"Pixet: Visualizing Text Universes" – an innovative project revolutionizing the preservation and accessibility of handwritten & historical documents. Through cutting-edge Optical Character Recognition (OCR 🖨️) and Machine Learning techniques, Textify digitally transforms analog manuscripts. Our user-friendly platform ensures real-time processing, enabling researchers and historians to effortlessly access and analyze these invaluable resources.
 
 # Overview
 
